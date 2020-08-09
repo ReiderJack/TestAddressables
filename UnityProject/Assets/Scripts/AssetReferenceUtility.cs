@@ -45,6 +45,7 @@ public class AssetReferenceUtility : MonoBehaviour
 
     public void UnloadObject()
     {
+        if (instantiatedObject == null) return;
         Destroy(instantiatedObject);
         Addressables.ReleaseInstance(instantiatedObject);
         Addressables.ReleaseInstance(instantiatedAccessoryObject);
