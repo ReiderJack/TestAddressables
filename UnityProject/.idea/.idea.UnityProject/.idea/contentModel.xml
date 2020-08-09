@@ -6,6 +6,9 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AssetReferenceUtility.cs" t="Include" />
+          <e p="AudioLoader.cs" t="Include" />
+          <e p="ObjectWithAudioLoader.cs" t="Include" />
+          <e p="SceneLoader.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

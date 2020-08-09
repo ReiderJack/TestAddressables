@@ -17,12 +17,28 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 43e3704c0fe62f041905caf7d33ebfe6
   m_SerializeEntries:
+  - m_GUID: 1bc379024cdd5a640905e29cd2b7497c
+    m_Address: Assets/Resources_moved/AudioPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38d05874089f5044eb1f5ec60301cc9f
+    m_Address: AudioClipToPlay.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 931cbfb0a553ff04fa2866884845332f
+    m_Address: Assets/Resources_moved/AudioSourceToInstantiate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: a3f94960d4aafb74bbdd42494df380dc
     m_Address: Assets/Resources_moved/Accesory.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: d803d4227aa5c0d48aeb3a9544cc4c90
     m_Address: Assets/Resources_moved/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f60cd019732e9654f909f20b35fc9be2
+    m_Address: Assets/Scenes/SceneToLoad.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
