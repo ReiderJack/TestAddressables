@@ -41,7 +41,7 @@ MonoBehaviour:
       - m_Id: 8c40eb66a2dde6e409812a4738cedef0
         m_Value: ServerData/[BuildTarget]
       - m_Id: 2d47444dd9e317d43a33fb6711e7d08c
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: https://unitystationfile.b-cdn.net/Bundles/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: acd37a3f472038c43a1ac59ff0433021
       m_Name: BuildTarget

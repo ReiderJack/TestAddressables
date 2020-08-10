@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ExampleAudioSource.unity
+    guid: 07069f12975924046b471928d28da0af
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 75998847e2eed4d4e88a2328db7a5ff0,
       type: 2}
